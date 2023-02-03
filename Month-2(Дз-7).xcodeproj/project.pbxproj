@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		36F0F9E5298BEA6800D1D262 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F0F9E4298BEA6800D1D262 /* main.swift */; };
+		36F0F9EC298BEA9A00D1D262 /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F0F9EB298BEA9A00D1D262 /* Client.swift */; };
+		36F0F9EE298BEADE00D1D262 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F0F9ED298BEADE00D1D262 /* Card.swift */; };
+		36F0F9F0298BEC1B00D1D262 /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F0F9EF298BEC1B00D1D262 /* Bank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		36F0F9E1298BEA6800D1D262 /* Month-2(Дз-7) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Month-2(Дз-7)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F0F9E4298BEA6800D1D262 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		36F0F9EB298BEA9A00D1D262 /* Client.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
+		36F0F9ED298BEADE00D1D262 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		36F0F9EF298BEC1B00D1D262 /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				36F0F9E4298BEA6800D1D262 /* main.swift */,
+				36F0F9EB298BEA9A00D1D262 /* Client.swift */,
+				36F0F9ED298BEADE00D1D262 /* Card.swift */,
+				36F0F9EF298BEC1B00D1D262 /* Bank.swift */,
 			);
 			path = "Month-2(Дз-7)";
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36F0F9EC298BEA9A00D1D262 /* Client.swift in Sources */,
+				36F0F9F0298BEC1B00D1D262 /* Bank.swift in Sources */,
+				36F0F9EE298BEADE00D1D262 /* Card.swift in Sources */,
 				36F0F9E5298BEA6800D1D262 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
